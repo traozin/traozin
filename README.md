@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student of Computer Engineering from the State University of Feira de Santana, started in 2017!
+
 <!--
 **traozin/traozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
