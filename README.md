@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of Computer Engineering from the Universidade Estadual de Feira de Santana, started in 2017!
+I'm a student of Computer Engineering from the [@UEFS]https://github.com/uefs, started in 2017!
 
 <!--
 **traozin/traozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
