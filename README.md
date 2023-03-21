@@ -14,8 +14,8 @@ My name is Antônio Neto and I'm a student of Computer Engineering from [@UEFS](
 
 ### Stats
 <a href="https://github.com/traozin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=7&theme=dark"/>
 
 ### How to reach me:
 <div>  
