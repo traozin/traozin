@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Antônio Neto and I'm a student of Computer Engineering from [@UEFS](https://github.com/uefs), started in 2017!
+My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https://github.com/uefs), started in 2017. Throughout my studies, I have developed a strong ability to adapt to different situations and deliver high-quality work, both individually and as part of a team. I am dedicated to learning and applying new knowledge efficiently, and I thrive in challenging environments. As a collaborative and creative problem-solver, I enjoy contributing to innovative solutions and maintaining a realistic approach.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="netu-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
