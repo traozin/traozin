@@ -27,7 +27,7 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 
 <div style="display: flex;">
 
-<div>  
+<div align="left">  
   <h3>How to reach me:</h3>
 
   <a href="https://www.instagram.com/traoz.jar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
