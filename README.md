@@ -25,10 +25,13 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
   <a href ="mailto:acm.neto1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/acmneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-<div align="right">Always listening to something 🎧</div>
+
+<details>
+      <summary align="right">Always listening to something 🎧</summary>
 <div align="right">
   <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>  
 </div>
+</details>
 
 <!--
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
