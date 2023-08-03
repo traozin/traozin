@@ -24,7 +24,6 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=7&theme=dark"/>
 
-
 <div>  
   <h3>How to reach me:</h3>
 
@@ -34,9 +33,10 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 </div>
 
 <div align="right">
-  Always listening to something 🎧
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
+Always listening to something 🎧
+
+  <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>
+
 </div>
 
 <!--
