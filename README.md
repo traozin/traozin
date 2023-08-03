@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # Hi there 👋
 
 My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https://github.com/uefs), started in 2017. Throughout my studies, I have developed a strong ability to adapt to different situations and deliver high-quality work, both individually and as part of a team. I am dedicated to learning and applying new knowledge efficiently, and I thrive in challenging environments. As a collaborative and creative problem-solver, I enjoy contributing to innovative solutions and maintaining a realistic approach.
@@ -36,6 +42,11 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 </div>
 
 </div>
+
+| <h3>How to reach me:</h3>    | Always listening to something 🎧 |
+| :----------- | -----------: |
+| <a href="https://www.instagram.com/traoz.jar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href ="mailto:acm.neto1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/acmneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)      |
+
 
 
 <!--
