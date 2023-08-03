@@ -13,23 +13,29 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 </div>
 
 ### Stats
+
 <a href="https://github.com/traozin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=7&theme=dark"/>
 
-### How to reach me:
+<div style="display: flex;">
+
 <div>  
+  <h3>How to reach me:</h3>
+
   <a href="https://www.instagram.com/traoz.jar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:acm.neto1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/acmneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-
-<div align="right">
+<div>
   Always listening to something 🎧
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
 </div>
+
+</div>
+
 <!--
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 **traozin/traozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
