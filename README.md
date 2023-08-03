@@ -18,7 +18,7 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=7&theme=dark"/>
 
 ### How to reach me:
-<div>
+<div style="display: flex; justify-content: space-between;">
   <div>  
     <a href="https://www.instagram.com/traoz.jar/">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
