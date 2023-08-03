@@ -29,7 +29,7 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 <details>
       <summary align="right">Always listening to something 🎧</summary>
 <div align="right">
-  <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>  
+  <img height="300em" src="https://spotify-github-profile.vercel.app/api/view?uid=31nbvghkrs7jvmmm7wgltexuretu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>  
 </div>
 </details>
 
