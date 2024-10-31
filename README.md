@@ -1,3 +1,6 @@
+<img src="./assets/under-renovation.png">
+
+<!--
 # Hi there 👋
 
 My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https://github.com/uefs), started in 2017. Throughout my studies, I have developed a strong ability to adapt to different situations and deliver high-quality work, both individually and as part of a team. I am dedicated to learning and applying new knowledge efficiently, and I thrive in challenging environments. As a collaborative and creative problem-solver, I enjoy contributing to innovative solutions and maintaining a realistic approach.
@@ -33,7 +36,6 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
 </div>
 </details>
 
-<!--
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 **traozin/traozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
