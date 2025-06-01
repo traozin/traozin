@@ -13,7 +13,7 @@ class Traozin{
         'backend' => ['PHP', 'Yii', 'Laravel', 'NodeJS', 'Nest', 'NodeJS'],
         'database' => ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
         'devops' => ['Docker', 'AWS', 'Google Cloud'],
-        'frontend' => ['HTML', 'CSS', 'JavaScript', 'ReactJS',  'Boostrap'],
+        'frontend' => ['HTML', 'CSS', 'JQuery', 'JavaScript', 'ReactJS',  'Boostrap'],
         'tools' => ['GIT', 'GitHub', 'BitBucket', 'Linux', 'WSL', 'VSCode'],
         'misc' => ['SCRUM', 'SOLID']
     ];
