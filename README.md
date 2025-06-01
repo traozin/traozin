@@ -6,6 +6,7 @@ class Traozin{
     public const NAME = 'Antônio Neto';
     public const POSITION = 'Full Stack Developer';
     public const TWITTER = '@traozin';
+    public const INSTAGRAM = '@traoz.php';
 
     public const ARCHITECTURE = ['SPA', 'MVC'];
 
