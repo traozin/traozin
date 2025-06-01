@@ -1,10 +1,33 @@
-<!--<img src="./assets/under-renovation.png">-->
-
-
 # Hi there 👋
 
-My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https://github.com/uefs), started in 2017. Throughout my studies, I have developed a strong ability to adapt to different situations and deliver high-quality work, both individually and as part of a team. I am dedicated to learning and applying new knowledge efficiently, and I thrive in challenging environments. As a collaborative and creative problem-solver, I enjoy contributing to innovative solutions and maintaining a realistic approach.
+```php
+class Traozin{
 
+    public const USERNAME = 'traozin';
+    public const NAME = 'Antônio Neto';
+    public const POSITION = 'Full Stack Developer';
+    public const TWITTER = '@traozin';
+
+    public const CODE = [
+        'backend' => ['PHP', 'Yii', 'Laravel', 'NodeJS', 'Nest', 'NodeJS'],
+        'database' => ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
+        'devops' => ['Docker', 'Linux', 'AWS', 'Google Cloud'],
+        'frontend' => ['HTML', 'CSS', 'JavaScript', 'ReactJS',  'Boostrap'],
+        'tools' => ['GIT', 'GitHub', 'BitBucket'],
+        'misc' => ['SCRUM', 'SOLID']
+    ];
+
+    public const ARCHITECTURE = ['SPA', 'MVC'];
+
+    public static function toString(): string {
+        return self::NAME . ' | ' . self::POSITION;
+    }
+}
+
+if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
+    echo Traozin::toString();
+}
+```
 <div style="display: inline_block"><br>
   <img align="center" alt="netu-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="netu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -12,7 +35,7 @@ My name is Antônio Neto and I'm a Computer Engineering student at [@UEFS](https
   <img align="center" alt="netu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="netu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="netu-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="netu-vdcode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
+  <img align="center" alt="netu-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
 </div>
 
 ### Stats
