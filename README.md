@@ -29,8 +29,8 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
 ```
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=6&theme=dark"/>
 </p>
 
 
