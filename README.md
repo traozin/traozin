@@ -38,8 +38,7 @@ if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
   <img align="center" alt="netu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="netu-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
   <img align="center" alt="netu-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="netu-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker
-/docker-original.svg">
+  <img align="center" alt="netu-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="netu-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
