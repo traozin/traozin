@@ -2,7 +2,6 @@
 
 ```php
 class Traozin{
-
     public const USERNAME = 'traozin';
     public const NAME = 'Antônio Neto';
     public const POSITION = 'Full Stack Developer';
