@@ -10,10 +10,10 @@ class Traozin{
     public const ARCHITECTURE = ['SPA', 'MVC'];
 
     public const CODE = [
-        'backend' => ['PHP', 'Yii', 'Laravel', 'Javascript', 'NestJS'],
+        'backend' => ['PHP', 'Yii', 'Laravel', 'Javascript', 'NestJS', 'Python', 'FastAPI'],
         'database' => ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
         'devops' => ['Docker', 'AWS', 'Google Cloud'],
-        'frontend' => ['HTML', 'CSS', 'JQuery', 'JavaScript', 'ReactJS',  'Boostrap', 'NextJS'],
+        'frontend' => ['HTML', 'CSS', 'JQuery', 'JavaScript', 'ReactJS', 'NextJS'],
         'tools' => ['GIT', 'GitHub', 'BitBucket', 'Linux', 'WSL', 'VSCode'],
         'misc' => ['SCRUM', 'SOLID']
     ];
