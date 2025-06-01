@@ -1,37 +1,47 @@
 # Hi there 👋
 
-```php
-class Traozin{
-    public const USERNAME = 'traozin';
-    public const NAME = 'Antônio Neto';
-    public const POSITION = 'Full Stack Developer';
-    public const TWITTER = '@traozin';
+<div style="display: flex; align-items: flex-start; width: 100%;">
+  <div style="width: 70%; padding-right: 20px; box-sizing: border-box;">
 
-    public const ARCHITECTURE = ['SPA', 'MVC'];
+  ```php
+  class Traozin{
+      public const USERNAME = 'traozin';
+      public const NAME = 'Antônio Neto';
+      public const POSITION = 'Full Stack Developer';
+      public const TWITTER = '@traozin';
 
-    public const CODE = [
-        'backend' => ['PHP', 'Yii', 'Laravel', 'NodeJS', 'Nest', 'NodeJS'],
-        'database' => ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
-        'devops' => ['Docker', 'AWS', 'Google Cloud'],
-        'frontend' => ['HTML', 'CSS', 'JavaScript', 'ReactJS',  'Boostrap'],
-        'tools' => ['GIT', 'GitHub', 'BitBucket', 'Linux', 'WSL', 'VSCode'],
-        'misc' => ['SCRUM', 'SOLID']
-    ];
+      public const ARCHITECTURE = ['SPA', 'MVC'];
 
-    public static function toString(): string {
-        return self::NAME . ' | ' . self::POSITION;
-    }
-}
+      public const CODE = [
+          'backend' => ['PHP', 'Yii', 'Laravel', 'NodeJS', 'Nest', 'NodeJS'],
+          'database' => ['PostgreSQL', 'MySQL', 'Mongo DB', 'Redis'],
+          'devops' => ['Docker', 'AWS', 'Google Cloud'],
+          'frontend' => ['HTML', 'CSS', 'JavaScript', 'ReactJS',  'Boostrap'],
+          'tools' => ['GIT', 'GitHub', 'BitBucket', 'Linux', 'WSL', 'VSCode'],
+          'misc' => ['SCRUM', 'SOLID']
+      ];
 
-if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
-    echo Traozin::toString();
-}
-```
+      public static function toString(): string {
+          return self::NAME . ' | ' . self::POSITION;
+      }
+  }
 
-<p align="center">
+  if (basename(__FILE__) == basename($_SERVER['SCRIPT_FILENAME'])) {
+      echo Traozin::toString();
+  }
+  ```
+
+  <p align="center">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=traozin&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traozin&layout=compact&langs_count=6&theme=dark"/>
-</p>
+  </p>
+</div>
+
+  <div style="width: 30%; overflow: hidden;">
+    <img src="https://github.com/traozin.png" alt="Traozin" style="width: 133%; transform: translateX(-25%); border-radius: 10px;" />
+  </div>
+
+</div>
 
 
 <div>  
